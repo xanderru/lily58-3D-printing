@@ -1,4 +1,4 @@
-# Lily58-3D-Printing
+# Lily58 3D Printing Files
 These are the files pertaining to my Typeractive Lily58's 3D printed parts.
 
 ## Case Files
