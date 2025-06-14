@@ -7,12 +7,14 @@ These are the files pertaining to my Typeractive Lily58's 3D printed parts.
 Models Only
 - [Left](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/left.stl) 
 - [Right](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/right.stl)
-- Notes
+  
+Notes
 - The tenting feet I used are 3.5 mm from Typeractive. Other keyboard websites sell 3.5 mm feet that look similar, but I can't gaurantee that they will fit.
 - The standoffs and top plate are the ones that came stock from Typeractive; however, the M2 bottom plate screws have been replaced to accomodate for the bottom plate changes. I specifically used M2 x 6 mm countersunk screws.
 
 ## Keycap Printing Preset
 Slicer Preset - https://github.com/xanderru/lily58-3D-printing/blob/main/data/keycaps/klp-lam%C3%A9-preset.3mf
+
 Notes
 - Saddle Tilted keys are printed either thicker side up or thicker side down depending on where they go on your keyboard. This is to minimize contact both visually and physically with the lower quality and rougher first layer.
 - I've not been able to find settings that produce perfect first layers, so I would recommend some post processing. Light sanding should do the trick for the most part and do be sure to dry your filament!
