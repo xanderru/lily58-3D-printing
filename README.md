@@ -2,10 +2,14 @@
 These are the files pertaining to my Typeractive Lily58's 3D printed parts.
 
 ## Case Files
-Fusion 360 - https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58-typeractive-choc-case.f3d 
-Slicer Preset - https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58-preset.3mf
-Models Only - Left: https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/left.stl Right: https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/right.stl
+[Fusion 360](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58-typeractive-choc-case.f3d)
+[Slicer Preset](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58-preset.3mf)
+Models Only
+- [Left](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/left.stl) 
+- [Right](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/right.stl)
+Notes
 - The tenting feet I used are 3.5 mm from Typeractive. Other keyboard websites sell 3.5 mm feet that look similar, but I can't gaurantee that they will fit.
+- The standoffs and top plate are the ones that came stock from Typeractive; however, the M2 bottom plate screws have been replaced to accomodate for the bottom plate changes. I specifically used M2 x 6 mm countersunk screws.
 
 ## Keycap Printing Preset
 Slicer Preset - https://github.com/xanderru/lily58-3D-printing/blob/main/data/keycaps/klp-lam%C3%A9-preset.3mf
@@ -22,3 +26,5 @@ Notes
   - The keycap profile I chose to 3D print.
 - [KLP Lamé "High Quality Individual Keys" by chad trans](https://makerworld.com/en/models/196991-klp-lame-kailh-choc-keycaps?from=search#profileId-513815)
   - I started with this preset, then heavily edited it to further maximize quality. 
+- [Typeractive](https://typeractive.xyz/)
+  - For a great product.
