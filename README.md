@@ -4,9 +4,7 @@ These are the files pertaining to my Typeractive Lily58's 3D printed parts.
 ## Case Files  
 [Fusion 360](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58-typeractive-choc-case.f3d)  
 [Slicer Preset](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58-preset.3mf)  
-Models Only  
-- [Left](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/left.stl)  
-- [Right](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/right.stl)  
+Models Only - [Left](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/left.stl) \\ [Right](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/right.stl)  
   
 Notes  
 - The tenting feet I used are 3.5 mm from Typeractive. Other keyboard websites sell 3.5 mm feet that look similar, but I can't gaurantee that they will fit.  
