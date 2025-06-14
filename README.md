@@ -28,3 +28,8 @@ Notes
   - I started with this preset, then heavily edited it to further maximize quality.   
 - [Typeractive](https://typeractive.xyz/)  
   - For a great product.  
+
+## Other Stuff
+- Files on Printables
+- Files on Makerworld
+- [My Miryoku-derived layout and firmware for the Typeractive Lily58](https://github.com/xanderru/lily58-miryoku-keymap-editor)
