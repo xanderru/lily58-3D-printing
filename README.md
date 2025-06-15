@@ -1,3 +1,18 @@
+# WORK IN PROGRESS, DO NOT PRINT. YOU HAVE BEEN WARNED.  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 # Lily58 3D Printing Files  
 These are the files pertaining to my Typeractive Lily58's 3D printed parts.  
   
