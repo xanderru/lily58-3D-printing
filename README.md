@@ -3,12 +3,11 @@ These are the files pertaining to my Typeractive Lily58's 3D printed parts.
   
 ## Case Files   
 [Slicer Preset](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_typeractive_choc_case.3mf)  
-Models Only - [Left](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/left.stl) | [Right](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/right.stl) | [Left - 90](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left_90degrees.stl) | [Right - 90](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_right_90degrees.stl)
+Models Only - [Left](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left.stl) | [Right](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_right.stl)
   
 Notes  
 - The tenting feet I used are ~56mm x ~16mm x 3.5mm from Typeractive. Other keyboard websites sell 3.5 mm feet that look similar, but I can't gaurantee that they will fit. Many similarly styled feet are sold on Amazon, but be warned, most of them are much larger than the one intended for this case. Be sure to measure and check fit! 
 - The standoffs and top plate are the ones that came stock from Typeractive; however, the M2 bottom plate screws have been replaced to accomodate for the bottom plate changes. I specifically used M2 x 6 mm countersunk screws. 
-- There are two versions of the left and right models depending on where you want your tenting feet access cutouts. 
   
 ## Keycap Printing Preset  
 [Slicer Preset](https://github.com/xanderru/lily58-3D-printing/blob/main/data/keycaps/klp-lam%C3%A9-preset.3mf)
