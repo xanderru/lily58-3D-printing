@@ -2,7 +2,7 @@
 These are the files pertaining to my Typeractive Lily58's 3D printed parts.  
   
 ## Case Files   
-[Slicer Preset](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_typeractive_choc_case.3mf)  
+[Slicer Preset](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58.3mf)  
 Models Only - [Left](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left.stl) | [Right](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_right.stl)
   
 Notes  
