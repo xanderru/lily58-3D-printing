@@ -4,10 +4,11 @@ These are the files pertaining to my Typeractive Lily58's 3D printed parts.
 ## Case Files   
 [Slicer Preset](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58.3mf)  
 Models Only  
-Left: [1.0](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left.stl) | [0.8](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left0.8.stl) | [0.6](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left0.6.stl)  
-Right: [1.0](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_right.stl) | [0.8](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left0.8.stl) | [0.6](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left0.6.stl)  
+Left: [1.0 mm](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left.stl) | [0.8 mm](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left0.8.stl) | [0.6 mm](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left0.6.stl)  
+Right: [1.0 mm](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_right.stl) | [0.8 mm](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left0.8.stl) | [0.6 mm](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left0.6.stl)  
   
 Notes  
+- There are three different sizes of the left and right models because I made three sets of models each with different depths for the cutouts. I discovered that the tenting feet are not totally flush. The rubber bit in particular extends about 0.2-0.4 mm, so I made versions where the cutouts are slightly deeper if that is what you would prefer. I chose to stick with the 1.0 mm version as it doesn't rock and I like the slight contact of the surface with the rubber as it actually keeps the keyboard from sliding all over the place during usage.
 - The tenting feet that are intended to be used for this are ~56mm x ~16mm x 3.5mm from Typeractive. Other keyboard websites sell 3.5 mm feet that look similar, but I can't gaurantee that they will fit. Many similarly styled feet are sold on Amazon, but be warned, most of them are much larger than the one intended for this case. Be sure to measure and check fit! 
 - The standoffs and top plate are the ones that came stock from Typeractive; however, the M2 bottom plate screws have been replaced to accomodate for the bottom plate changes. I specifically used M2 x 6 mm countersunk screws. 
   
