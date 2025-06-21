@@ -3,7 +3,9 @@ These are the files pertaining to my Typeractive Lily58's 3D printed parts.
   
 ## Case Files   
 [Slicer Preset](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58.3mf)  
-Models Only - [Left](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left.stl) | [Right](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_right.stl)
+Models Only  
+Left: [1.0](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left.stl) | [0.8](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left0.8.stl) | [0.6](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left0.6.stl)  
+Right: [1.0](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_right.stl) | [0.8](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left0.8.stl) | [0.6](https://github.com/xanderru/lily58-3D-printing/blob/main/data/case/lily58_left0.6.stl)  
   
 Notes  
 - The tenting feet that are intended to be used for this are ~56mm x ~16mm x 3.5mm from Typeractive. Other keyboard websites sell 3.5 mm feet that look similar, but I can't gaurantee that they will fit. Many similarly styled feet are sold on Amazon, but be warned, most of them are much larger than the one intended for this case. Be sure to measure and check fit! 
